@@ -36,4 +36,9 @@ How to Use:
 
 Ready to turn your WhatsApp into a messaging masterpiece? Clone the repo, make it your own, and let the enchantment begin! ✨🚀
 
+🌐 **Connect with Me**
+- [LinkedIn](www.linkedin.com/in/md-azfar-alam)
+
+  
+
 **Happy Tapping/Coding!** 📲💬
