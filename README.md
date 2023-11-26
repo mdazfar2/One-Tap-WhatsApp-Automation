@@ -1,5 +1,5 @@
 # Description:
-Unleash the power of simplicity with our WhatsApp Automation Wizard! 🌟✉️ Tired of the usual texting routine? Dive into the world of one-tap messaging, where sending messages becomes an art form. This Python script transforms your messaging experience, making it as easy as 1-2-3! 🚀📱.
+Unleash the power of simplicity with our WhatsApp Automation Wizard! 🌟✉️ Tired of the usual texting routine? Dive into the world of one-tap messaging, where sending messages becomes an art form. This Python script transforms your messaging experience, making it as easy as 1-2-3! 🚀📱
 
 ## Features:
 ✨ **Instant Messaging Magic:** Send messages of all types instantly with just a tap. Say goodbye to typing and hello to efficiency!
